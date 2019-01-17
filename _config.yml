@@ -1,6 +1,6 @@
 ---
-title: Your awesome title
-timezone: UTC
+title: The Site Title
+timezone: Africa/Johannesburg
 collections:
   components:
     title: Components
