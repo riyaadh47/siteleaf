@@ -19,7 +19,6 @@ description: Write an awesome description for your new site here. You can edit t
 baseurl: 
 url: 
 markdown: kramdown
-theme: jekyll-theme-cayman
 plugins:
 - jekyll-feed
 sass:
